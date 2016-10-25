@@ -2,7 +2,7 @@
 number step, based on zepto, used to add and subtract the number of shopping goods
 
 ### How to user it
-no JS:
+No JS:
 
 ```
  <div id="buy-step" class="total-num num-step" data-role="numStep" data-trigger="#total-price" data-min="1" data-max="5">
@@ -22,7 +22,7 @@ no JS:
   </div>
 ```
 
-the data-* attributes are required.
+The data-* attributes are required.
 
 You can set  the minimum&maximum number with 'data-min' & 'data-max' , the default value is 1&100000000.
 
